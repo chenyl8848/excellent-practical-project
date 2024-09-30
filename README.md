@@ -8,7 +8,7 @@
 - - [ ] [公寓租赁项目]()
 - - [ ] [社区团购项目]()
 
-## 其他开源项目
+## 其他项目
 
 - [开源项目汇总](https://github.com/chenyl8848/great-open-source-project)
 
