@@ -1,12 +1,12 @@
-# 实战项目汇总合集
+# 实战项目汇总
 
 这是一个 JavaEE 开发实战汇总合集项目！
 
 ## 实战项目
 
-- - [x] [代驾项目]()
+- - [ ] [代驾项目]()
 - - [ ] [公寓租赁项目]()
-- - [ ] [社区团购项目]()
+- - [x] [社区团购项目](https://github.com/chenyl8848/excellent-practical-project/tree/master/community-group-buy)
 
 ## 其他项目
 
